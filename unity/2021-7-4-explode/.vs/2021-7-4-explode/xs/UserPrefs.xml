@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{13BF628A-E3CB-AA1C-DA0C-99F5E81B2408}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/FirstPersion AIO Pack/Tobasu.cs">
+    <Files>
+      <File FileName="Assets/FirstPersion AIO Pack/tobasu.cs" Line="24" Column="20" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="2021-7-4-explode" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="FirstPersion AIO Pack" expanded="True">
+                <Node name="Tobasu.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Unity" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="38497684-83d9-46e0-a7b9-bfdcf23476dc" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

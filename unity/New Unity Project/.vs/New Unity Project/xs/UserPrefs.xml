@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{B2B58FB2-4462-6B0C-A872-40DD957E5FE0}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/AddRigid.cs">
+    <Files>
+      <File FileName="Assets/Tobasu.cs" Line="10" Column="17" />
+      <File FileName="Assets/Chakka.cs" />
+      <File FileName="Assets/AddRigid.cs" Line="32" Column="11" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="New Unity Project" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="AddRigid.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="37d4b7d2-5b80-46d2-a5f6-5673671a487a" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
