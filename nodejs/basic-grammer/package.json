@@ -1,0 +1,18 @@
+{
+  "name": "nodejs-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cognitive.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "event": "^1.0.0",
+    "express": "^4.17.2",
+    "fetch": "^1.1.0",
+    "node-fetch": "^2.6.1",
+    "request": "^2.88.2"
+  }
+}
